@@ -1,0 +1,28 @@
+{
+  "courses": [
+    {
+      "courseName": "Java",
+      "startDate": "04-07-2021",
+      "endDate": "04-09-2021",
+      "required": "Mandatory",
+      "progress": "Compleate",
+      "duration": {
+        "hours": 5,
+        "minutes": 30
+      },
+      "id": 1
+    },
+    {
+      "courseName": "cyber security",
+      "startDate": "21-07-2021",
+      "endDate": "04-09-2021",
+      "required": "Non-Mandatory",
+      "progress": "In-Compleate",
+      "duration": {
+        "hours": 8,
+        "minutes": 30
+      },
+      "id": 2
+    }
+  ]
+}
